@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.zhen.rms" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>RMS</name>
+    <description>
+        A simple app for manage something...
+    </description>
+    <author email="wesley_zh@163.com">
+        Wesley Zhang
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <preference name="SplashScreen" value="screen" />
+		<preference name="SplashScreenDelay" value="10000" />
+</widget>
